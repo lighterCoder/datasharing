@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Close eye",
+        "value": [
+            25
+        ]
+    },
+    {
+        "label": "Open eye",
+        "value": [
+            26
+        ]
+    }
+]
